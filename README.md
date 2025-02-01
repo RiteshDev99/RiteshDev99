@@ -1,17 +1,70 @@
-<h1 align="center">Hi 👋, I'm Ritesh Chaudhary</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+# 👋 **Hello, I'm Ritesh Chaudhary**  
+### A Passionate Frontend & App Developer from India 🚀
 
-- 🔭 I’m currently working on **Restaurant Admin App**
+---
 
-- 🌱 I’m currently learning **React-Native, React-Js**
+### 🔭 **Currently Working On**
+- **MediMate – Medicine Scanner App 📸** (React Native)
 
-- 📫 How to reach me **riteshchaudhary63430@gmail.com**
+### 🌱 **Currently Learning**
+- **React Native** & **React.js**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/riteshdev99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riteshdev99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ritesh chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh chaudhary" height="30" width="40" /></a>
-</p>
+### 📫 **How to Reach Me**
+- Email: [riteshchaudhary63430@gmail.com](mailto:riteshchaudhary63430@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🧑‍💻 **Connect with Me**
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40riteshdev99-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/riteshdev99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40riteshchaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshchaudhary)
+
+---
+
+### 🛠️ **Languages and Tools**
+
+Here are the tools I work with:
+
+- **Languages:**
+  - [C](https://www.cprogramming.com/) 
+  - [HTML5](https://www.w3.org/html/)
+  - [CSS3](https://www.w3schools.com/css/)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [TypeScript](https://www.typescriptlang.org/)
+
+- **Tools:**
+  - [Figma](https://www.figma.com/) 
+  - [Git](https://git-scm.com/) 
+  - [Linux](https://www.linux.org/) 
+  - [React](https://reactjs.org/) 
+  - [React Native](https://reactnative.dev/) 
+  - [Tailwind CSS](https://tailwindcss.com/)
+  - [VS Code](https://code.visualstudio.com/)
+  - [WebStorm](https://www.jetbrains.com/webstorm/)
+  - [Vite](https://vitejs.dev/)
+
+---
+
+### 🔧 **Backend as a Service (BaaS)**
+
+I work with the following Backend as a Service platforms:
+
+- [Firebase](https://firebase.google.com/) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+- [Supabase](https://supabase.io/) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### 💼 **Work With Me**
+- **Freelance:** Available for exciting freelance opportunities! Let's collaborate on building amazing web apps and mobile applications.
+
+---
+
+### 📚 **Let's Stay Connected!**
+Feel free to check out my projects, or reach out to me directly for collaboration opportunities. I'm always happy to connect with other developers and tech enthusiasts.
+
+---
+
+### ✨ **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritesh-chaudhary&show_icons=true&hide=prs&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-chaudhary&layout=compact&theme=radical)
