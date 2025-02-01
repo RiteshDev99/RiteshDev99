@@ -1,5 +1,5 @@
 # 👋 **Hello, I'm Ritesh Chaudhary**  
-### A Passionate Frontend & App Developer from India 🚀
+### A Passionate Frontend Web & App Developer from India 🚀
 
 ---
 
