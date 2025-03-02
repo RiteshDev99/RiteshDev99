@@ -1,11 +1,6 @@
 # 👋 **Hello, I'm Ritesh Chaudhary**  
 ### A Passionate Frontend Web & App Developer from India 🚀
 
----
-
-### 🔭 **Currently Working On**
-- **MediMate – Medicine Scanner App 📸** (React Native)
-
 ### 🌱 **Learning**
 - **React Native** & **React.js**
 
