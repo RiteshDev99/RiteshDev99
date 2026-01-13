@@ -96,18 +96,6 @@
 
 📧 **Email:** riteshchaudhary63430@gmail.com  
 
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://twitter.com/riteshdev99">
-    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/riteshchaudhary">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
