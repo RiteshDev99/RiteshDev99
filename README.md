@@ -1,51 +1,116 @@
-# 👋 **Hello, I'm Ritesh Chaudhary**  
-### A Passionate Frontend Web & App Developer from India 🚀
-
-### 🌱 **Learning**
-- **React Native** & **React.js**
-
-### 📫 **Reach Me**
-- Email: [riteshchaudhary63430@gmail.com](mailto:riteshchaudhary63430@gmail.com)
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ritesh+Chaudhary;Frontend+Web+%26+App+Developer;Software+Developer+%40+AuraLink;React+%7C+Next.js+%7C+Nest.js;Building+Modern+Scalable+Apps+🚀" />
+</p>
 
 ---
 
-### 🧑‍💻 **Connect with Me**
+<h3 align="center">
+🚀 Software Developer @ AuraLink
+</h3>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40riteshdev99-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/riteshdev99)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40riteshchaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshchaudhary)
-
----
-
-### 🛠️ **Languages & Tools**
-
-- **Languages:**  
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-- **Tools:**  
-  ![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
-
-
-### 🔧 **Backend as a Service**
-
-- [Firebase](https://firebase.google.com/) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-- [Supabase](https://supabase.io/) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/riteshdev99?label=Followers&style=flat&color=38B2AC" />
+</p>
 
 ---
 
-### 💼 **Freelance**
-- Open for exciting freelance opportunities. Let's collaborate!
+## 👨‍💻 About Me
+
+- 🇮🇳 Frontend Developer from **India**
+- 💼 **Software Developer at AuraLink**
+- ⚡ Building **production-grade web & mobile applications**
+- 🌱 Currently **mastering Nest.js** for backend excellence
+- 🧠 Interested in **system design, automation & reverse engineering**
 
 ---
+
+## 🧑‍💼 Current Role
+
+🏢 **Company:** AuraLink  
+👨‍💻 **Role:** Software Developer  
+📚 **Focus:**  
+- Frontend Architecture  
+- Backend Development with **Nest.js**  
+- Scalable APIs & Clean Code Practices  
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
+</p>
+
+---
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,supabase" />
+</p>
+
+---
+
+### 🧪 Automation & Testing
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
+
+---
+
+### 🔐 Advanced & Special Skills
+- 🧠 Reverse Engineering  
+- ☁️ Cloudflare (DNS, Security, Performance)  
+- ⚡ Hono Framework  
+
+---
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode,webstorm" />
+</p>
+
+---
+
+## ☁️ Backend as a Service
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+---
+
+
+## 💼 Freelance & Collaboration
+
+✅ Open to **Freelance Opportunities**  
+🤝 Available for **Remote Work**  
+🚀 Interested in **Startup & SaaS Projects**
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:** riteshchaudhary63430@gmail.com  
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://twitter.com/riteshdev99">
+    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/riteshchaudhary">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=120&section=footer"/>
+</p>
