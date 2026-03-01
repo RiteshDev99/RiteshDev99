@@ -1,4 +1,4 @@
-<!-- Animated Header -->
+# <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ritesh+Chaudhary;Frontend+Web+%26+App+Developer;Software+Developer+%40+AuraLinq;React+%7C+Next.js+%7C+Nest.js+%7C+Astro;Building+Modern+Scalable+Applications+🚀" />
 </p>
@@ -58,7 +58,7 @@
 
 ## ⚙️ Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,supabase,appwrite" />
 </p>
 
 - 🛠️ Node.js & Nest.js  
@@ -66,6 +66,32 @@
 - 📦 RESTful API Design  
 - 🗄️ Database Integration  
 - ☁️ Backend-as-a-Service  
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB_Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+- 🍃 **MongoDB** — NoSQL document database for scalable, flexible data storage  
+- 🧭 **MongoDB Compass** — GUI-driven schema inspection, query building & performance profiling  
+- 📐 Schema design, indexing strategies & aggregation pipelines  
+
+---
+
+## 🐳 Containerization & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+- 🐳 **Docker** — Containerizing applications for consistent dev & production environments  
+- 📦 Writing `Dockerfile` & `docker-compose.yml` for multi-service setups  
+- 🔁 Streamlining local development workflows with containers  
 
 ---
 
@@ -93,12 +119,13 @@
 
 ## 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode,webstorm" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode,webstorm,docker" />
 </p>
 
 - 🐧 Linux Environment  
 - 🎨 UI/UX Collaboration (Figma)  
 - 🔧 Version Control & CI workflows  
+- 🐳 Docker for containerized environments  
 
 ---
 
@@ -106,7 +133,12 @@
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
 </p>
+
+- 🔥 **Firebase** — Realtime DB, Auth, Hosting & Cloud Functions  
+- ⚡ **Supabase** — Open-source Firebase alternative with PostgreSQL  
+- 🖥️ **Appwrite** — Self-hosted BaaS with Auth, Databases, Storage & Functions  
 
 ---
 
