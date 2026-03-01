@@ -69,6 +69,21 @@
 
 ---
 
+## 🔑 Authentication & Security
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+</p>
+
+- 🔒 **JWT (JSON Web Tokens)** — Stateless authentication with access & refresh token strategies  
+- 🛡️ Token signing, verification, expiry handling & blacklisting  
+- 🔐 Role-based access control (RBAC) using JWT claims  
+- 🔄 Secure token rotation & silent refresh flows  
+- 🌐 OAuth2 integrations with third-party providers  
+
+---
+
 ## 🗄️ Databases
 
 <p>
@@ -114,6 +129,7 @@
 - ☁️ Cloudflare (DNS, Security, Performance Optimization)  
 - ⚡ Hono Framework  
 - 🏗️ System Design Fundamentals  
+- 🔑 JWT-based Auth Architecture  
 
 ---
 
