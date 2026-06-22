@@ -1,13 +1,11 @@
 # <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ritesh+Chaudhary;Frontend+Web+%26+App+Developer;Software+Developer+%40+AuraLinq;React+%7C+Next.js+%7C+Nest.js+%7C+Astro;Building+Modern+Scalable+Applications+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ritesh+Chaudhary;FullStack+Web+%26+App+Developer;Software+Developer;React+%7C+Next.js+%7C+Nest.js+%7C+Astro;Building+Modern+Scalable+Applications+🚀" />
 </p>
 
 ---
 
-<h3 align="center">
-🚀 Software Developer @ AuraLinq
-</h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/riteshdev99?label=Followers&style=flat&color=38B2AC" />
@@ -20,7 +18,6 @@
 # 👨‍💻 About Me
 
 - 🇮🇳 Frontend & Full-Stack Developer from **India**
-- 💼 Software Developer at **AuraLinq**
 - ⚡ Building **production-grade, scalable web & mobile applications**
 - 🧠 Strong focus on **clean architecture & performance optimization**
 - 🌱 Currently mastering **Nest.js** & backend system design
@@ -28,10 +25,6 @@
 
 ---
 
-# 🧑‍💼 Current Role
-
-🏢 **Company:** AuraLinq  
-👨‍💻 **Role:** Software Developer  
 
 ### 🎯 Core Responsibilities
 - Architecting scalable frontend systems  
