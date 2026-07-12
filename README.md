@@ -1,171 +1,85 @@
-# <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ritesh+Chaudhary;FullStack+Web+%26+App+Developer;Software+Developer;React+%7C+Next.js+%7C+Nest.js+%7C+Astro;Building+Modern+Scalable+Applications+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:38B2AC&height=190&section=header&text=Ritesh%20Chaudhary&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20AI%20Agent%20Builder&descAlignY=58&descSize=18" alt="Ritesh Chaudhary — MERN Stack Developer and AI Agent Builder" />
 </p>
-
----
-
-
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/riteshdev99?label=Followers&style=flat&color=38B2AC" />
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Architecture-38B2AC" />
-  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Maintainable-38B2AC" />
+  <a href="mailto:riteshchaudhary63430@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email Ritesh" /></a>
+  <a href="https://github.com/riteshdev99"><img src="https://img.shields.io/badge/GitHub-riteshdev99-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <img src="https://img.shields.io/badge/Available%20for-Freelance%20%26%20Collaborations-38B2AC?style=flat-square" alt="Available for freelance and collaborations" />
 </p>
 
----
+## 👨‍💻 About Me
 
-# 👨‍💻 About Me
+I'm **Ritesh Chaudhary**, a Full-Stack Developer from India. I build polished web applications, scalable backend systems, and practical AI-powered experiences.
 
-- 🇮🇳 Frontend & Full-Stack Developer from **India**
-- ⚡ Building **production-grade, scalable web & mobile applications**
-- 🧠 Strong focus on **clean architecture & performance optimization**
-- 🌱 Currently mastering **Nest.js** & backend system design
-- 🚀 Passionate about solving real-world problems with modern tech
+- 🚀 MERN Stack Developer focused on real-world, production-ready products
+- 🤖 Building AI agents and automation workflows that make software more useful
+- ⚡ Passionate about clean architecture, fast user experiences, and maintainable code
+- 🧠 Exploring backend system design, Nest.js, and intelligent application development
+- 🤝 Open to freelance work, remote roles, SaaS projects, and technical collaborations
 
----
+## 🧩 What I Build
 
+| Area | Focus |
+| :-- | :-- |
+| Modern interfaces | React, Next.js, Astro, Tailwind CSS |
+| Full-stack products | MERN applications with scalable APIs and databases |
+| AI-powered experiences | AI agents, smart workflows, and automation |
+| Reliable systems | Secure authentication, clean architecture, and performance |
 
-### 🎯 Core Responsibilities
-- Architecting scalable frontend systems  
-- Developing secure backend APIs using **Nest.js**  
-- Writing maintainable & clean production-ready code  
-- Improving performance & developer workflows  
+## 🛠️ Tech Stack
 
----
-
-# 🛠️ Tech Stack & Skills
-
-## 🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,redux,tailwind,vite" />
-</p>
-
-- ⚛️ React & Next.js  
-- 🚀 Astro (Performance-focused modern web framework)  
-- 🎨 Tailwind CSS  
-- 🗂️ State Management (Redux)  
-- ⚡ Performance Optimization  
-
----
-
-## ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,supabase,appwrite" />
-</p>
-
-- 🛠️ Node.js & Nest.js  
-- 🔐 Authentication & Authorization  
-- 📦 RESTful API Design  
-- 🗄️ Database Integration  
-- ☁️ Backend-as-a-Service  
-
----
-
-## 🔑 Authentication & Security
+### MERN Stack
 
 <p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MongoDB, Express, React, Node.js" />
 </p>
 
-- 🔒 **JWT (JSON Web Tokens)** — Stateless authentication with access & refresh token strategies  
-- 🛡️ Token signing, verification, expiry handling & blacklisting  
-- 🔐 Role-based access control (RBAC) using JWT claims  
-- 🔄 Secure token rotation & silent refresh flows  
-- 🌐 OAuth2 integrations with third-party providers  
-
----
-
-## 🗄️ Databases
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB_Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,redux,tailwind,vite" alt="Frontend technologies" />
 </p>
 
-- 🍃 **MongoDB** — NoSQL document database for scalable, flexible data storage  
-- 🧭 **MongoDB Compass** — GUI-driven schema inspection, query building & performance profiling  
-- 📐 Schema design, indexing strategies & aggregation pipelines  
+`React` `Next.js` `Astro` `TypeScript` `JavaScript` `Tailwind CSS` `Redux` `Vite`
 
----
-
-## 🐳 Containerization & DevOps
+### Backend, APIs & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase,supabase,appwrite" alt="Backend technologies" />
 </p>
 
-- 🐳 **Docker** — Containerizing applications for consistent dev & production environments  
-- 📦 Writing `Dockerfile` & `docker-compose.yml` for multi-service setups  
-- 🔁 Streamlining local development workflows with containers  
+`Node.js` `Express.js` `Nest.js` `MongoDB` `REST APIs` `Firebase` `Supabase` `Appwrite`
 
----
+### AI Agents & Automation
 
-## 🧪 Automation & Testing
+- 🤖 AI agent workflows and intelligent product features
+- 🔄 Web automation, browser control, and data workflows
+- 🧪 End-to-end testing with Selenium, Puppeteer, and Playwright
+- 🧠 Practical problem-solving through automation and AI-assisted systems
+
+### Security, DevOps & Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,figma,vscode,webstorm" alt="Tools and DevOps" />
 </p>
 
-- 🤖 Web Automation  
-- 🧪 End-to-End Testing  
-- 🔎 Browser Control & Scraping  
+- 🔐 JWT authentication, refresh tokens, RBAC, OAuth2, and secure auth flows
+- 🐳 Docker, Dockerfiles, Docker Compose, and multi-service development environments
+- ☁️ Cloudflare for DNS, security, and performance optimization
+- 🧰 Git/GitHub, Linux, Figma, VS Code, and WebStorm
 
----
+## 🎯 How I Work
 
-## 🔐 Advanced & Special Skills
+I care about more than getting features working. I build with clear structure, secure authentication, thoughtful database design, and an eye on performance from the beginning. My goal is simple: create software that feels great to use and stays easy to grow.
 
-- 🧠 Reverse Engineering  
-- ☁️ Cloudflare (DNS, Security, Performance Optimization)  
-- ⚡ Hono Framework  
-- 🏗️ System Design Fundamentals  
-- 🔑 JWT-based Auth Architecture  
+## 🌱 Currently Growing In
 
----
-
-## 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode,webstorm,docker" />
-</p>
-
-- 🐧 Linux Environment  
-- 🎨 UI/UX Collaboration (Figma)  
-- 🔧 Version Control & CI workflows  
-- 🐳 Docker for containerized environments  
-
----
-
-# ☁️ Backend as a Service
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
-</p>
-
-- 🔥 **Firebase** — Realtime DB, Auth, Hosting & Cloud Functions  
-- ⚡ **Supabase** — Open-source Firebase alternative with PostgreSQL  
-- 🖥️ **Appwrite** — Self-hosted BaaS with Auth, Databases, Storage & Functions  
-
----
-
-# 💼 Freelance & Collaboration
-
-✅ Open to Freelance Opportunities  
-🤝 Available for Remote Work  
-🚀 Interested in Startup & SaaS Projects  
-🧩 Open to Technical Collaborations  
-
----
-
-# 📫 Contact Me
-
-📧 **Email:** riteshchaudhary63430@gmail.com  
-
----
+- Advanced Nest.js and backend architecture
+- System design for scalable applications
+- AI agents and automation-first product development
+- Building modern SaaS experiences with the MERN stack
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=120&section=footer" alt="Footer wave" />
 </p>
