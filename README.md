@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:38B2AC&height=190&section=header&text=Ritesh%20Chaudhary&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20AI%20Agent%20Builder&descAlignY=58&descSize=18" alt="Ritesh Chaudhary — Full-Stack Developer and AI Agent Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:38B2AC&height=190&section=header&text=Ritesh%20Chaudhary&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Agent%20Builder&descAlignY=58&descSize=18" alt="Ritesh Chaudhary — Full-Stack Developer and AI Agent Builder" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 I'm **Ritesh Chaudhary**, a Full-Stack Developer from India. I build polished web applications, scalable backend systems, and practical AI-powered experiences.
 
-- 🚀 MERN Stack Developer focused on real-world, production-ready products
+- 🚀 Full-Stack Developer focused on real-world, production-ready products
 - 🤖 Building AI agents and automation workflows that make software more useful
 - ⚡ Passionate about clean architecture, fast user experiences, and maintainable code
 - 🧠 Exploring backend system design, Nest.js, and intelligent application development
@@ -23,17 +23,11 @@ I'm **Ritesh Chaudhary**, a Full-Stack Developer from India. I build polished we
 | Area | Focus |
 | :-- | :-- |
 | Modern interfaces | React, Next.js, Astro, Tailwind CSS |
-| Full-stack products | MERN applications with scalable APIs and databases |
+| Full-stack products | Scalable APIs, databases, and end-to-end applications |
 | AI-powered experiences | AI agents, smart workflows, and automation |
-| Reliable systems | Secure authentication, clean architecture, and performance |
+| Reliable systems | Secure authentication, caching, clean architecture, and performance |
 
 ## 🛠️ Tech Stack
-
-### MERN Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MongoDB, Express, React, Node.js" />
-</p>
 
 ### Frontend
 
@@ -46,10 +40,10 @@ I'm **Ritesh Chaudhary**, a Full-Stack Developer from India. I build polished we
 ### Backend, APIs & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase,supabase,appwrite" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,redis,firebase,supabase,appwrite" alt="Backend technologies" />
 </p>
 
-`Node.js` `Express.js` `Nest.js` `MongoDB` `REST APIs` `Firebase` `Supabase` `Appwrite`
+`Node.js` `Express.js` `Nest.js` `MongoDB` `Redis` `REST APIs` `Firebase` `Supabase` `Appwrite`
 
 ### AI Agents & Automation
 
@@ -65,6 +59,7 @@ I'm **Ritesh Chaudhary**, a Full-Stack Developer from India. I build polished we
 </p>
 
 - 🔐 JWT authentication, refresh tokens, RBAC, OAuth2, and secure auth flows
+- ⚡ Redis for caching, session storage, and rate limiting
 - 🐳 Docker, Dockerfiles, Docker Compose, and multi-service development environments
 - ☁️ Cloudflare for DNS, security, and performance optimization
 - 🧰 Git/GitHub, Linux, Figma, VS Code, and WebStorm
@@ -78,7 +73,7 @@ I care about more than getting features working. I build with clear structure, s
 - Advanced Nest.js and backend architecture
 - System design for scalable applications
 - AI agents and automation-first product development
-- Building modern SaaS experiences with the MERN stack
+- Building modern SaaS experiences across the full stack
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=120&section=footer" alt="Footer wave" />
