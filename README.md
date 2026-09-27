@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:38B2AC&height=190&section=header&text=Ritesh%20Chaudhary&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20AI%20Agent%20Builder&descAlignY=58&descSize=18" alt="Ritesh Chaudhary — MERN Stack Developer and AI Agent Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:38B2AC&height=190&section=header&text=Ritesh%20Chaudhary&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20AI%20Agent%20Builder&descAlignY=58&descSize=18" alt="Ritesh Chaudhary — Full-Stack Developer and AI Agent Builder" />
 </p>
 
 <p align="center">
